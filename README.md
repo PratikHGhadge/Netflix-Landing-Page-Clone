@@ -23,9 +23,10 @@ To view the Netflix landing page clone locally, simply open the `index.html` fil
 - CSS
 
 ## Screenshots
+![Screenshot from 2023-07-19 14-27-45](https://github.com/PratikHGhadge/Netflix-Landing-Page-Clone/assets/93422248/4af0d1f1-913c-46d4-952d-57b02946c5b1)
+![Screenshot from 2023-07-19 14-30-50](https://github.com/PratikHGhadge/Netflix-Landing-Page-Clone/assets/93422248/4ede5fb4-28b8-4637-bd2e-4a85032cd637)
+![Screenshot from 2023-07-19 14-31-01](https://github.com/PratikHGhadge/Netflix-Landing-Page-Clone/assets/93422248/d805f8c5-64dd-4339-b749-84f1ad4bde8d)
 
-![Uploading Screenshot from 2023-07-19 14-27-45.png…]()
-![Uploading Screenshot from 2023-07-19 14-30-50.png…]()
-![Uploading Screenshot from 2023-07-19 14-31-01.png…]()
+
 ![Screenshot from 2023-07-19 14-31-08](https://github.com/PratikHGhadge/Netflix-Landing-Page-Clone/assets/93422248/39d2952f-0fb6-484d-b342-af48fa38c9fc)
-![Uploading Screenshot from 2023-07-19 14-31-13.png…]()
+![Screenshot from 2023-07-19 14-31-13](https://github.com/PratikHGhadge/Netflix-Landing-Page-Clone/assets/93422248/6526b63d-fa9e-4365-8ffd-6c8198d7339e)
